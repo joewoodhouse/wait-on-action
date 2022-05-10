@@ -85,7 +85,7 @@ resources are considered available on first detection.
 Example usage
 -------------
 ```yaml
-uses: ifaxity/wait-on-action
+uses: iFaxity/wait-on-action@v1
 with:
   resource: http://localhost:8080
 ```
